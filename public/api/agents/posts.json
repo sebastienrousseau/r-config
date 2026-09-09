@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-09-09",
+    "description": "Shareable R configuration providing standardized lintr and styler rules adhering to modern 2026 standards.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "@sebastienrousseau/r-config — Shareable R configuration standards for lintr and styler.",
+    "url": "https://sebastienrousseau.com/r-config/index.html",
+    "wordCount": 162
+  },
+  {
     "date": "",
     "description": "How to install and set up @sebastienrousseau/r-config.",
     "locale": "en-GB",
