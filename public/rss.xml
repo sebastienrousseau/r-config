@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Untitled</title>
+    <link>https://sebastienrousseau.com/r-config</link>
+    <description></description>
+    <atom:link href="https://sebastienrousseau.com/r-config/rss.xml" rel="self" type="application/rss+xml"/>
+    <language>en</language>
+    <item>
+      <title>Installation — @sebastienrousseau/r-config</title>
+      <link>https://sebastienrousseau.com/r-config/installation/</link>
+      <description>How to install and set up @sebastienrousseau/r-config.</description>
+      <guid isPermaLink="true">https://sebastienrousseau.com/r-config/installation/</guid>
+      <pubDate></pubDate>
+      <author></author>
+    </item>
+    <item>
+      <title>Model Context Protocol (MCP) — @sebastienrousseau/r-config</title>
+      <link>https://sebastienrousseau.com/r-config/mcp/</link>
+      <description>Model Context Protocol configuration for @sebastienrousseau/r-config.</description>
+      <guid isPermaLink="true">https://sebastienrousseau.com/r-config/mcp/</guid>
+      <pubDate></pubDate>
+      <author></author>
+    </item>
+    <item>
+      <title>Reference — @sebastienrousseau/r-config</title>
+      <link>https://sebastienrousseau.com/r-config/reference/</link>
+      <description>Reference specifications and options for @sebastienrousseau/r-config.</description>
+      <guid isPermaLink="true">https://sebastienrousseau.com/r-config/reference/</guid>
+      <pubDate></pubDate>
+      <author></author>
+    </item>
+    <item>
+      <title>Usage — @sebastienrousseau/r-config</title>
+      <link>https://sebastienrousseau.com/r-config/usage/</link>
+      <description>How to use and configure @sebastienrousseau/r-config.</description>
+      <guid isPermaLink="true">https://sebastienrousseau.com/r-config/usage/</guid>
+      <pubDate></pubDate>
+      <author></author>
+    </item>
+  </channel>
+</rss>
