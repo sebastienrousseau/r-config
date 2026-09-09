@@ -5,7 +5,7 @@ Comprehensive schema, property definitions, and exported options reference for `
 ---
 
 ## Description
-Shareable R configuration providing standardized lintr and styler rules adhering to modern 2026 standards.
+Shareable R configuration standards providing lintr and styler presets for statistical computing and data science.
 
 ---
 
@@ -18,3 +18,10 @@ Shareable R configuration providing standardized lintr and styler rules adhering
 | `index.d.ts` | TypeScript | TypeScript >= 5.0 | Type declarations |
 
 ---
+
+## Feature & Property Reference
+
+### 1. .lintr
+- **Description**: Strict lintr configuration enforcing snake_case identifiers, 100 character line limit, and cyclomatic complexity gates.
+- **Scope**: Production & Development
+- **Status**: Stable & Active
