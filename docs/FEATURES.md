@@ -18,4 +18,5 @@ An exhaustive overview covering **100% of the features, rules, and capabilities*
 ## Feature Deep Dive
 
 ### 1. .lintr
+
 Strict lintr configuration enforcing snake_case identifiers, 100 character line limit, and cyclomatic complexity gates. Designed to guarantee deterministic behavior across all development and continuous integration environments.
