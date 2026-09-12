@@ -1,5 +1,0 @@
-# r-config
-
-> Shareable R configuration providing standardized lintr and styler rules adhering to modern 2026 standards.
-
-Language: en-GB
