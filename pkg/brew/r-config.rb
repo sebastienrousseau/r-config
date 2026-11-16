@@ -6,7 +6,7 @@
 class RConfig < Formula
   desc "Shareable R configuration providing standardized lintr and styler rules adhering to modern 2026 standards"
   homepage "https://github.com/sebastienrousseau/r-config"
-  url "https://registry.npmjs.org/@sebastienrousseau/r-config/-/r-config-0.0.7.tgz"
+  url "https://registry.npmjs.org/@sebastienrousseau/r-config/-/r-config-0.0.9.tgz"
   license any_of: ["Apache-2.0", "MIT"]
 
   depends_on "node"
